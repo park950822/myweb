@@ -1,16 +1,5 @@
 <html>
 <head>
-    <title>9up 프로야구 갤러리 바로가기 Ver.0.00</title>
-    <HTA:APPLICATION
-        ID="myApp"
-        APPLICATIONNAME="MyApp"
-        BORDER="thin"
-        BORDERSTYLE="normal"
-        CAPTION="yes"
-        WINDOWSTATE="normal">
-    <meta charset="UTF-8">
-</head>
-
 <body>
     <!-- 이미지 표시 -->
     <img src="https://i.ibb.co/XvWGxwM/3.png" alt="내 사진" width="600" height="300" style="display: block; margin: 0 auto;">
